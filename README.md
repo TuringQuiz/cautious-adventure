@@ -7,3 +7,6 @@ This is a test of modifying and branching
 
 this is **bold** and this is *italic*
 I think
+therefore I am
+
+
